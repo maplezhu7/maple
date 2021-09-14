@@ -1,8 +1,8 @@
 ### Nice to meet you 👋
 
 I'm Maple and I'm Computer Science student at NEU
-- 🔭 I’m currently working on Intensive Foundations of Computer Science and Recitation
-- 🤔 I’m currently learning ...
+- 🔭 I’m currently living in San Jose, also known as Silicon Vally 
+- 🤔 I’m currently learning Foundations of Computer Science and Recitation
 - 🌱 I’m looking to collaborate on creating mobile apps for health tech/life style
 
 - 🍁 Pronouns: she/her
