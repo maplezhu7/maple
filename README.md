@@ -19,5 +19,5 @@ I'm Maple and I'm Computer Science student at NEU
 <code><img height="24" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png"></code>  
 </p>
 
-[![Maple's github stats](https://github-readme-stats.vercel.app/api?username=maplezhu7&show_icons=true&theme=slateorange)](https://github.com/maplezhu7/github-readme-stats)
+[![Maple's github stats](https://github-readme-stats.vercel.app/api?username=maplezoo&show_icons=true&theme=slateorange)](https://github.com/maplezhu7/github-readme-stats)
 
