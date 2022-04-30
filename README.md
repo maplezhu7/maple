@@ -16,7 +16,12 @@ I'm Maple and I'm Computer Science student at NEU
 
 ### 🧰 Languages and Tools:
 <p align="left">
-<code><img height="24" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png"></code>  
+  <code><img height="24" src="https://github.com/maplezoo/programming-languages-logos/blob/master/src/java/java.png"></code>  
+  <code><img height="24" src="https://github.com/maplezoo/programming-languages-logos/blob/master/src/javascript/javascript.png"></code>  
+  <code><img height="24" src="https://github.com/maplezoo/programming-languages-logos/blob/master/src/html/html.png"></code>  
+  <code><img height="24" src="https://github.com/maplezoo/programming-languages-logos/blob/master/src/css/css.png"></code>  
+  <code><img height="24" src="https://github.com/maplezoo/programming-languages-logos/blob/master/src/python/python.png"></code>  
+
 </p>
 
 [![Maple's github stats](https://github-readme-stats.vercel.app/api?username=maplezoo&show_icons=true&theme=slateorange)](https://github.com/maplezhu7/github-readme-stats)
